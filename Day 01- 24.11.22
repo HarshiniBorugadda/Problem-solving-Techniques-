@@ -1,14 +1,1 @@
-Q: How to find the sum of the elements in the array?
-a) Use a for loop (T(n)=O(n))
-b) In case of doing it multiple times for multiple arrays or something like that use in-built function specific to the language or create a function and use it.
-Q: How to tackle pattern related questions?
-A: Basically patterns contains rows and cols and some symbols, characters or numbers etc..
-a) First thing to be focused upon is take two or three examples atleast and try to infer a common logic from them.
-b) Use for loops and try to implement the logic that you've inferred. 
 
-
-Basic Note for everyone--
-We know that mistakes happen quite a lot of time but be patient at that time don't feel like you're a loser and you're not fit for coding etc...
-It happens that most of the times we tend to feel that way. But, still it's okay that's the process.
-Things take time to learn but remember one thing DON'T GIVE UP.
-Learn a little by little and try to enjoy the process:)
